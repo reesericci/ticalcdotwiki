@@ -1,10 +1,8 @@
-# Installing games/software
+# Installing Cesium
 
-A step-by-step guide for installing programs onto your calc.
+Installing a beautiful shell that you will use to access your games
 
 ## TI-84 Plus CE
-
-### Installing Cesium:
 
 Cesium is a shell that gives you beautiful access to your programs.
 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "installing-games.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "installing-games.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "c162c6cc647d8726",
   "lastOpenFiles": [
+    "index.md",
     "installing-games.md",
     "required-stuff.md",
     "resources.md",
-    "index.md",
     "ticalc.png",
     "ticalc.link-pairing-calc.png"
   ]

@@ -4,5 +4,5 @@ theme:
 nav:
     - 'index.md'
     - 'required-stuff.md'
-    - 'installing-games.md'  
+    - 'installing-cesium.md'  
     - 'resources.md'
