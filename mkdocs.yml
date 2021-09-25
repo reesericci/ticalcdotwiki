@@ -1,0 +1,8 @@
+site_name: ticalc.wiki
+theme:
+  name: material
+nav:
+    - 'index.md'
+    - 'required-stuff.md'
+    - 'installing-games.md'  
+    - 'resources.md'

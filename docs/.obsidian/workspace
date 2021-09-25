@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "d438d040935fc8ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "c162c6cc647d8726",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "installing-games.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7d0e6af66893ed5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0011992eef59298a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b167a533ac32cddc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1cca63f9db66f8c8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbcf301fb8d238df",
+    "type": "split",
+    "children": [
+      {
+        "id": "604a3c7a91bd4342",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b24f4f678aa89fb2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "installing-games.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c162c6cc647d8726",
+  "lastOpenFiles": [
+    "installing-games.md",
+    "required-stuff.md",
+    "resources.md",
+    "index.md",
+    "ticalc.png",
+    "ticalc.link-pairing-calc.png"
+  ]
+}
