@@ -66,4 +66,4 @@ Cesium is a shell that gives you beautiful access to your programs.
 	<img src="/assets/installing-cesium/calcscreen/cesium.png" style="border: 2px #000000 solid" width="250" height="250" />
 	
 This is where all of your programs will live; every time you install a new program, open Cesium to access it. You can close Cesium by pushing "clear". 
-Also, from now on you can access Cesium by pushing "on" and "prgm" at the same time.
+**Also, from now on you can access Cesium by pushing "on" and "prgm" at the same time.**
