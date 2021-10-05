@@ -4,8 +4,6 @@ Installing a beautiful shell that you will use to access your games
 
 ## TI-84 Plus CE
 
-Cesium is a shell that gives you beautiful access to your programs.
-
 ### Downloading Cesium
 1. Go to either [ceme.tech/DL1372](http://ceme.tech/DL1372) or [ticalc.org/archives/files/fileinfo/465/46574.html](https://www.ticalc.org/archives/files/fileinfo/465/46574.html) and download cesium.zip 
 2. Unzip it and find cesium.8xp. This is the file you will send to your calculator.
@@ -37,8 +35,6 @@ Cesium is a shell that gives you beautiful access to your programs.
 		8. If all went well, your screen should like this:
 
 			<img src="/assets/installing-cesium/ticalc.link/done.png" width="500" height="500" />
-	
-    6. #### TI-Connect CE
     
 ### Installing Cesium
 
@@ -67,3 +63,5 @@ Cesium is a shell that gives you beautiful access to your programs.
 	
 This is where all of your programs will live; every time you install a new program, open Cesium to access it. You can close Cesium by pushing "clear". 
 **Also, from now on you can access Cesium by pushing "on" and "prgm" at the same time.**
+
+If at any point Cesium is not working you can access all of your programs by simply pushing "prgm".

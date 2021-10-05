@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "installing-cesium.md",
+            "file": "index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "installing-cesium.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c162c6cc647d8726",
   "lastOpenFiles": [
+    "index.md",
+    "Pasted image 20211005093351.png",
     "installing-cesium.md",
     "required-stuff.md",
+    "installing-games.md",
     "resources.md",
+    "Untitled.md",
     "assets/calc-cesium-prgm.png",
     "assets/installing-cesium/ticalc.link/ticalc.link-selected.png",
-    "assets/installing-cesium/ticalc.link/ticalc.link-paired.png",
-    "assets/installing-cesium/ticalc.link/ticalc.link-done.png",
-    "index.md",
-    "assets/ticalc.link-pairing-calc.png",
-    "assets/ticalc.link-beta-message.png"
+    "assets/installing-cesium/ticalc.link/ticalc.link-paired.png"
   ]
 }
