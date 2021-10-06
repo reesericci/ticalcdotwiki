@@ -5,12 +5,15 @@ Welcome to ticalc.wiki - Where you can learn how to install games on the TI-83/T
 ## Finding out what calc you have
 The model will be at the top of your calc.
 
+**IF YOU HAVE A TI-30 THIS WILL NOT WORK. Get a TI-84/83 series calc instead - watch the buing guide below.**
+
 <img src="/assets/home/ti-84-plus-ce.png" width="150"/>
 <img src="/assets/home/ti-84-plus-cse.png" width="150"/>
 <img src="/assets/home/ti-84-plus-se.png" width="150"/>
 <img src="/assets/home/ti-84-plus.png" width="150"/>
 <img src="/assets/home/ti-83-premium-ce.png" width="150"/>
 <img src="/assets/home/ti-83-plus.png" width="150"/>
+
 
 ## Buying a new calc
  Looking for a calculator reccomendation?
