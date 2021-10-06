@@ -1,6 +1,6 @@
 # Home
 
-Welcome to ticalc.wiki - the place to learn how to install games/programs onto your TI calculator. (Mainly for the TI-84 Plus CE)
+Welcome to ticalc.wiki - Where you can learn how to install games on the TI-83/TI-84 family of calcs.
 
 ## Finding out what calc you have
 The model will be at the top of your calc.
