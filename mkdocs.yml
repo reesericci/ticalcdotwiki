@@ -4,5 +4,7 @@ theme:
 nav:
     - 'index.md'
     - 'required-stuff.md'
-    - 'installing-cesium.md'  
+    - 'jailbreaking.md'
+    - 'installing-shell.md'  
+    - 'installing-games.md'
     - 'resources.md'

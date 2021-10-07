@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "jailbreaking.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "jailbreaking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "c162c6cc647d8726",
   "lastOpenFiles": [
+    "jailbreaking.md",
     "index.md",
+    "Untitled.md",
     "Pasted image 20211005093351.png",
     "installing-cesium.md",
     "required-stuff.md",
     "installing-games.md",
     "resources.md",
-    "Untitled.md",
     "assets/calc-cesium-prgm.png",
-    "assets/installing-cesium/ticalc.link/ticalc.link-selected.png",
-    "assets/installing-cesium/ticalc.link/ticalc.link-paired.png"
+    "assets/installing-cesium/ticalc.link/ticalc.link-selected.png"
   ]
 }

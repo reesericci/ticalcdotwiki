@@ -1,8 +1,8 @@
-# Installing Cesium
+# Installing a shell
 
-Installing a beautiful shell that you will use to access your games
+How you will access your games
 
-## TI-84 Plus CE
+## Cesium - TI-84 Plus CE/TI-83 Premium CE
 
 ### Downloading Cesium
 1. Go to either [ceme.tech/DL1372](http://ceme.tech/DL1372) or [ticalc.org/archives/files/fileinfo/465/46574.html](https://www.ticalc.org/archives/files/fileinfo/465/46574.html) and download cesium.zip 
@@ -65,3 +65,7 @@ This is where all of your programs will live; every time you install a new progr
 **Also, from now on you can access Cesium by pushing "on" and "prgm" at the same time.**
 
 If at any point Cesium is not working you can access all of your programs by simply pushing "prgm".
+
+
+## MirageOS TI-84/83 Plus
+Tutorial not done yet
